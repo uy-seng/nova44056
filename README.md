@@ -19,7 +19,7 @@ Hello, my name is Wei and I am currently a college student majoring in computer 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nova44056&icon=5&color=1)](https://visitcount.itsvg.in)
