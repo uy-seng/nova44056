@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, my name is Wei and I am currently a college student majoring in computer science. I am passionate about software engineering and currently working on a bug-tracking project. In addition, I am also learning artificial intelligence technology to expand my skills and knowledge. My ultimate goal is to become a software engineer and I particularly enjoy working with TypeScript due to its strong typing and modern language features. I am excited about the future of software engineering and the endless possibilities that AI technology can offer.
 
+## Organization
+- [weii-io](https://github.com/weii-io) (owner)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uy-seng) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nova44056) 
