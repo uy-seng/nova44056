@@ -1,5 +1,5 @@
 # About Me:
-Hello, my name is Wei and I am currently a college student majoring in computer science. I am passionate about software engineering. In addition, I am also learning artificial intelligence technology to expand my skills and knowledge. My ultimate goal is to become a software engineer and I particularly enjoy working with TypeScript due to its strong typing and modern language features. I am excited about the future of software engineering and the endless possibilities that AI technology can offer.
+i lyke cats. meow~
 
 ## Organization
 - [weii-io](https://github.com/weii-io)
